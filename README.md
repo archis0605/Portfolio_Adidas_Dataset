@@ -4,7 +4,7 @@ Set of real world dataset tasks is completed by using the Python Pandas and Matp
 
 ## Background Information:
 In this porfolio we use Python Pandas & Python Matplotlib to analyze and answer business questions about 5 products worth of sales data. 
-The data contains hundreds of thousands of sportwear store purchases broken down by product type, cost, region, state, city etc.
+The data contains hundreds of thousands of footwear store purchases broken down by product type, cost, region, state, city etc.
 
 We start by cleaning our data. Tasks during this section include:
 
